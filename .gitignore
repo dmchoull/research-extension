@@ -1,0 +1,9 @@
+.idea
+*.iml
+
+node_modules/
+build/
+
+.DS_Store
+yarn-error.log
+assets/.idea/*
